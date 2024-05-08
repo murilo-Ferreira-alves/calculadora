@@ -1,0 +1,15 @@
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.sourcelink.json
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\bin\Debug\net6.0\calculadora.exe
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\bin\Debug\net6.0\calculadora.dll
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.dll
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\Users\marisa\Videos\Programação\Projetos\Calculadora\Calculadora\src\calculadora\obj\Debug\net6.0\ref\calculadora.dll
