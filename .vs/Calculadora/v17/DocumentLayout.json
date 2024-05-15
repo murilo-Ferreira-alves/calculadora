@@ -3,20 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6221401-E463-488B-B66B-091686880712}|src\\04\\04.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6221401-E463-488B-B66B-091686880712}|src\\04\\04.csproj|solutionrelative:src\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7C1B5B7-8BD3-42AC-BAEF-C685224B8612}|src\\07\\07.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C1B5B7-8BD3-42AC-BAEF-C685224B8612}|src\\07\\07.csproj|solutionrelative:src\\07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC8AE1B-022A-4E0F-82EF-EF4F245FD152}|src\\03\\03.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EC8AE1B-022A-4E0F-82EF-EF4F245FD152}|src\\03\\03.csproj|solutionrelative:src\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28678DD6-DE54-4C65-9248-69C9AF39F9B3}|src\\06\\06.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28678DD6-DE54-4C65-9248-69C9AF39F9B3}|src\\06\\06.csproj|solutionrelative:src\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D618944B-09E8-4A91-BC1D-80633FA7D7E4}|src\\05\\05.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D618944B-09E8-4A91-BC1D-80633FA7D7E4}|src\\05\\05.csproj|solutionrelative:src\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E239C95-4154-4219-B983-802AF16EC120}|src\\08\\08.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E239C95-4154-4219-B983-802AF16EC120}|src\\08\\08.csproj|solutionrelative:src\\08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA6CD53-D29C-4C5E-91AC-8A8AF46C2133}|src\\01\\01.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA6CD53-D29C-4C5E-91AC-8A8AF46C2133}|src\\01\\01.csproj|solutionrelative:src\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D503228-6A90-4FA9-A843-EAEF27255625}|src\\02\\02.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D503228-6A90-4FA9-A843-EAEF27255625}|src\\02\\02.csproj|solutionrelative:src\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{907D787C-99EA-480B-846B-5AE759BA8985}|src\\calculadora\\calculadora.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{907D787C-99EA-480B-846B-5AE759BA8985}|src\\calculadora\\calculadora.csproj|solutionrelative:src\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6221401-E463-488B-B66B-091686880712}|src\\04\\04.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6221401-E463-488B-B66B-091686880712}|src\\04\\04.csproj|solutionrelative:src\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC8AE1B-022A-4E0F-82EF-EF4F245FD152}|src\\03\\03.csproj|c:\\users\\marisa\\videos\\programa\u00E7\u00E3o\\projetos\\calculadora\\calculadora\\src\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC8AE1B-022A-4E0F-82EF-EF4F245FD152}|src\\03\\03.csproj|solutionrelative:src\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +65,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\08\\Program.cs",
+              "RelativeDocumentMoniker": "src\\08\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\08\\Program.cs",
+              "RelativeToolTip": "src\\08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:57:52.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\04\\Program.cs",
-              "RelativeDocumentMoniker": "src\\04\\Program.cs",
-              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\04\\Program.cs",
-              "RelativeToolTip": "src\\04\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABXAAAA",
+              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\07\\Program.cs",
+              "RelativeDocumentMoniker": "src\\07\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\07\\Program.cs",
+              "RelativeToolTip": "src\\07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T20:25:55.591Z",
+              "WhenOpened": "2024-05-15T00:56:32.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\06\\Program.cs",
+              "RelativeDocumentMoniker": "src\\06\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\06\\Program.cs",
+              "RelativeToolTip": "src\\06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:55:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAQwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-15T00:45:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\01\\Program.cs",
+              "RelativeDocumentMoniker": "src\\01\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\01\\Program.cs",
+              "RelativeToolTip": "src\\01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:43:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\05\\Program.cs",
+              "RelativeDocumentMoniker": "src\\05\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\05\\Program.cs",
+              "RelativeToolTip": "src\\05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:58:21.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\04\\Program.cs",
+              "RelativeDocumentMoniker": "src\\04\\Program.cs",
+              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\04\\Program.cs",
+              "RelativeToolTip": "src\\04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:25:55.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\03\\Program.cs",
               "RelativeDocumentMoniker": "src\\03\\Program.cs",
               "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\03\\Program.cs",
               "RelativeToolTip": "src\\03\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T19:28:07.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\02\\Program.cs",
               "RelativeDocumentMoniker": "src\\02\\Program.cs",
@@ -81,19 +178,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T19:21:07.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\calculadora\\Program.cs",
-              "RelativeDocumentMoniker": "src\\calculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\marisa\\Videos\\Programa\u00E7\u00E3o\\Projetos\\Calculadora\\Calculadora\\src\\calculadora\\Program.cs",
-              "RelativeToolTip": "src\\calculadora\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:45:10.537Z",
               "EditorCaption": ""
             }
           ]
